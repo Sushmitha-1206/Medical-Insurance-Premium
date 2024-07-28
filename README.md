@@ -1,0 +1,1 @@
+My project aims to predict the medical insurance payouts for customers using various machine learning models, including Linear Regression, Decision Tree, Random Forest, and XGBoost. After training and evaluating these models, the Random Forest model performed the best with an accuracy of 86%. 
